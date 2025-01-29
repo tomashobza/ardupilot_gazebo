@@ -155,6 +155,7 @@
             <near>0.05</near>
             <far>15000</far>
           </clip>
+          <!-- <topic>/camera/image</topic> -->
         </camera>
         <always_on>1</always_on>
         <update_rate>10</update_rate>
